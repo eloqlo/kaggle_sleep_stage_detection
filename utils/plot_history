@@ -1,0 +1,14 @@
+def plot_history(history, show=True):
+    epochs = range(1, len(history["train_loss"]) + 1)
+
+    plt.figure()
+    plt.plot(epochs, history["train_loss"], label="Training Loss")
+    plt.plot(epochs, history["valid_loss"], label="Validation Loss")
+    plt.yscale('log')
+    plt.title("Loss evolution")
+    plt.xlabel("Epochs")
+    plt.ylabel("Loss")
+    plt.legend()
+    if show:
+        plt.show()
+    plt.close()
