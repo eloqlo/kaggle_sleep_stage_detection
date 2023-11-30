@@ -14,3 +14,11 @@
 ## train.py
 
 - functions needed for tarain, validate the model
+
+## loss.py
+
+- focal loss
+
+## plot_history.py
+
+- for plotting train loss, valid loss 
