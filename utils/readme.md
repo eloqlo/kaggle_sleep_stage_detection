@@ -9,3 +9,8 @@
 - make weighted ensemble for multiple models.
 - returns single prediction
 - this function specially work for my custom dataset objects (/dataset_fn/*.py)
+
+
+## train.py
+
+- functions needed for tarain, validate the model
