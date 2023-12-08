@@ -1,5 +1,6 @@
 # kaggle_sleep_stage_detection
-https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/overview
+- https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/overview
+- 2023.12.07
 
 ## My Trials
 
