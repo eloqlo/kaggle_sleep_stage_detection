@@ -13,8 +13,8 @@
 
 ## My best Model Combination was
 
-**Feature Extractor**(1D convolutions)  
-**Encoder** (Downsampling, Self Attention, Upsampling)  
-**Decoder** (1D Convolutions)  
+**Feature Extractor**(1D CNN)  
+**Encoder** (Downsampling, Attention, Upsampling)  
+**Decoder** (1D CNN)  
 
 * I tried to focus on processing different pattern of input data feature. So I used Channel-Wise Covolution also, but didn't have much time to do a proper experiments.
