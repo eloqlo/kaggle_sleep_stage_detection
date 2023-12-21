@@ -2,7 +2,7 @@
 - https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/overview
 - 2023.12.07
 
-## 🤖 My Trials are...
+## 🤖 My Trials were...
 
 1. Start baseline with XGBoost (**Score 0.279**)
 2. Set the task as "classification" for solving this problem (**Failed**)
